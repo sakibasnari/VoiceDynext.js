@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import Crud from './component/Crud';
+import VoiceReg from './component/Voice';
 function App() {
   return (
     <div >
-<Crud />
+<VoiceReg />
     </div>
   );
 }
